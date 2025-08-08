@@ -67,4 +67,4 @@ F1-Score
 Confusion Matrix
 
 📄 Publication
-This project is part of an ongoing research paper which is currently under review. The work demonstrates the impact of preprocessing and data validation strategies on diabetes prediction models using real-world healthcare datasets.
+This project is part of an ongoing research paper which is currently in progress. The work demonstrates the impact of preprocessing and data validation strategies on diabetes prediction models using real-world healthcare datasets.
