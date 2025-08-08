@@ -1,8 +1,6 @@
 🩺 Diabetes Prediction using Machine Learning
 This project focuses on the prediction of diabetes using supervised machine learning models. The goal is to evaluate model performance under different data preprocessing strategies and experimental setups, using multiple datasets. The project involves rigorous cross-validation, feature selection, and ablation studies to analyze model behavior in real-world conditions.
 
-⚠️ This work is currently being prepared for publication in a research paper.
-
 ✅ Objectives
 Predict the likelihood of diabetes using ML models
 
